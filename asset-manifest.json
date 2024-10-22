@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Yasir45455/survey.git/static/css/main.ee4f35df.css",
-    "main.js": "/Yasir45455/survey.git/static/js/main.54ddac04.js",
-    "static/js/453.012b15c1.chunk.js": "/Yasir45455/survey.git/static/js/453.012b15c1.chunk.js",
-    "static/media/loginadminbg.jpg": "/Yasir45455/survey.git/static/media/loginadminbg.15e93c2ad767364fcd14.jpg",
-    "static/media/img_2.png": "/Yasir45455/survey.git/static/media/img_2.8cad5d47aff5021817ac.png",
-    "static/media/img_1.png": "/Yasir45455/survey.git/static/media/img_1.ffcfb6c3eca89de6c01a.png",
-    "index.html": "/Yasir45455/survey.git/index.html",
-    "main.ee4f35df.css.map": "/Yasir45455/survey.git/static/css/main.ee4f35df.css.map",
-    "main.54ddac04.js.map": "/Yasir45455/survey.git/static/js/main.54ddac04.js.map",
-    "453.012b15c1.chunk.js.map": "/Yasir45455/survey.git/static/js/453.012b15c1.chunk.js.map"
+    "main.css": "/survey/static/css/main.ee4f35df.css",
+    "main.js": "/survey/static/js/main.49cb4f51.js",
+    "static/js/453.012b15c1.chunk.js": "/survey/static/js/453.012b15c1.chunk.js",
+    "static/media/loginadminbg.jpg": "/survey/static/media/loginadminbg.15e93c2ad767364fcd14.jpg",
+    "static/media/img_2.png": "/survey/static/media/img_2.8cad5d47aff5021817ac.png",
+    "static/media/img_1.png": "/survey/static/media/img_1.ffcfb6c3eca89de6c01a.png",
+    "index.html": "/survey/index.html",
+    "main.ee4f35df.css.map": "/survey/static/css/main.ee4f35df.css.map",
+    "main.49cb4f51.js.map": "/survey/static/js/main.49cb4f51.js.map",
+    "453.012b15c1.chunk.js.map": "/survey/static/js/453.012b15c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee4f35df.css",
-    "static/js/main.54ddac04.js"
+    "static/js/main.49cb4f51.js"
   ]
 }
