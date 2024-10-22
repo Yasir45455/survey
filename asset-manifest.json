@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Yasir45455/survey.git/static/css/main.ee4f35df.css",
-    "main.js": "/Yasir45455/survey.git/static/js/main.498bbd52.js",
+    "main.js": "/Yasir45455/survey.git/static/js/main.f1cb89d5.js",
     "static/js/453.012b15c1.chunk.js": "/Yasir45455/survey.git/static/js/453.012b15c1.chunk.js",
     "static/media/loginadminbg.jpg": "/Yasir45455/survey.git/static/media/loginadminbg.15e93c2ad767364fcd14.jpg",
     "static/media/img_2.png": "/Yasir45455/survey.git/static/media/img_2.8cad5d47aff5021817ac.png",
     "static/media/img_1.png": "/Yasir45455/survey.git/static/media/img_1.ffcfb6c3eca89de6c01a.png",
     "index.html": "/Yasir45455/survey.git/index.html",
     "main.ee4f35df.css.map": "/Yasir45455/survey.git/static/css/main.ee4f35df.css.map",
-    "main.498bbd52.js.map": "/Yasir45455/survey.git/static/js/main.498bbd52.js.map",
+    "main.f1cb89d5.js.map": "/Yasir45455/survey.git/static/js/main.f1cb89d5.js.map",
     "453.012b15c1.chunk.js.map": "/Yasir45455/survey.git/static/js/453.012b15c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee4f35df.css",
-    "static/js/main.498bbd52.js"
+    "static/js/main.f1cb89d5.js"
   ]
 }
